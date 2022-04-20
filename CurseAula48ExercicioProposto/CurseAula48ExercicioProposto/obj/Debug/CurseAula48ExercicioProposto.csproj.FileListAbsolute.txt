@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CurseAula48ExercicioProposto/CurseAula48ExercicioProposto/bin/Debug/CurseAula48ExercicioProposto.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CurseAula48ExercicioProposto/CurseAula48ExercicioProposto/bin/Debug/CurseAula48ExercicioProposto.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CurseAula48ExercicioProposto/CurseAula48ExercicioProposto/obj/Debug/CurseAula48ExercicioProposto.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CurseAula48ExercicioProposto/CurseAula48ExercicioProposto/obj/Debug/CurseAula48ExercicioProposto.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CurseAula48ExercicioProposto/CurseAula48ExercicioProposto/obj/Debug/CurseAula48ExercicioProposto.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CurseAula48ExercicioProposto/CurseAula48ExercicioProposto/obj/Debug/CurseAula48ExercicioProposto.pdb

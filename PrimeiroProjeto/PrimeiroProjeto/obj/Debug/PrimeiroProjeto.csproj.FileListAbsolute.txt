@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/PrimeiroProjeto.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/PrimeiroProjeto.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/PrimeiroProjeto.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/PrimeiroProjeto.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/PrimeiroProjeto.pdb

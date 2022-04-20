@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioDeFixacaoParte2/ExercicioDeFixacaoParte2/bin/Debug/ExercicioDeFixacaoParte2.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioDeFixacaoParte2/ExercicioDeFixacaoParte2/bin/Debug/ExercicioDeFixacaoParte2.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioDeFixacaoParte2/ExercicioDeFixacaoParte2/obj/Debug/ExercicioDeFixacaoParte2.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioDeFixacaoParte2/ExercicioDeFixacaoParte2/obj/Debug/ExercicioDeFixacaoParte2.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioDeFixacaoParte2/ExercicioDeFixacaoParte2/obj/Debug/ExercicioDeFixacaoParte2.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioDeFixacaoParte2/ExercicioDeFixacaoParte2/obj/Debug/ExercicioDeFixacaoParte2.pdb

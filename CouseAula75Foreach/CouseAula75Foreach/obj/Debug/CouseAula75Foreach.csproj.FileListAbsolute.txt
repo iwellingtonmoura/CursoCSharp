@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula75Foreach/CouseAula75Foreach/bin/Debug/CouseAula75Foreach.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula75Foreach/CouseAula75Foreach/bin/Debug/CouseAula75Foreach.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula75Foreach/CouseAula75Foreach/obj/Debug/CouseAula75Foreach.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula75Foreach/CouseAula75Foreach/obj/Debug/CouseAula75Foreach.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula75Foreach/CouseAula75Foreach/obj/Debug/CouseAula75Foreach.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula75Foreach/CouseAula75Foreach/obj/Debug/CouseAula75Foreach.pdb

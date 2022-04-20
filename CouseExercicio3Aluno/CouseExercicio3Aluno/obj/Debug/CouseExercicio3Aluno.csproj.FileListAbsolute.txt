@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseExercicio3Aluno/CouseExercicio3Aluno/bin/Debug/CouseExercicio3Aluno.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseExercicio3Aluno/CouseExercicio3Aluno/bin/Debug/CouseExercicio3Aluno.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseExercicio3Aluno/CouseExercicio3Aluno/obj/Debug/CouseExercicio3Aluno.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseExercicio3Aluno/CouseExercicio3Aluno/obj/Debug/CouseExercicio3Aluno.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseExercicio3Aluno/CouseExercicio3Aluno/obj/Debug/CouseExercicio3Aluno.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseExercicio3Aluno/CouseExercicio3Aluno/obj/Debug/CouseExercicio3Aluno.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4316486C-196F-409C-8CBD-F92262F34553}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula60ExercicioContaCorrente/Conta.cs">
+    <Files>
+      <File FileName="CourseAula60ExercicioContaCorrente/Conta.cs" Line="22" Column="141" />
+      <File FileName="CourseAula60ExercicioContaCorrente/Program.cs" Line="13" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula60ExercicioContaCorrente" expanded="True">
+            <Node name="CourseAula60ExercicioContaCorrente" expanded="True">
+              <Node name="Conta.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CourseAula60ExercicioContaCorrente PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula60ExercicioContaCorrente/CourseAula60ExercicioContaCorrente/Conta.cs" relfile="CourseAula60ExercicioContaCorrente/Conta.cs" line="7" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

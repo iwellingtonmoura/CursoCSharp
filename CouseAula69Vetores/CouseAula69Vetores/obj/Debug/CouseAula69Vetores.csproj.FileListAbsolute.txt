@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula69Vetores/CouseAula69Vetores/bin/Debug/CouseAula69Vetores.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula69Vetores/CouseAula69Vetores/bin/Debug/CouseAula69Vetores.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula69Vetores/CouseAula69Vetores/obj/Debug/CouseAula69Vetores.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula69Vetores/CouseAula69Vetores/obj/Debug/CouseAula69Vetores.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula69Vetores/CouseAula69Vetores/obj/Debug/CouseAula69Vetores.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula69Vetores/CouseAula69Vetores/obj/Debug/CouseAula69Vetores.pdb

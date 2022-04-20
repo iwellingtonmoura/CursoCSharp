@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CD685C5B-4CFF-4AEF-81D9-615BAE289263}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula21OperadoresAritimeticos/Program.cs">
+    <Files>
+      <File FileName="CourseAula21OperadoresAritimeticos/Program.cs" Line="19" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula21OperadoresAritimeticos" expanded="True">
+            <Node name="CourseAula21OperadoresAritimeticos" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CourseAula21OperadoresAritimeticos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

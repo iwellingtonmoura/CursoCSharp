@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{345C4202-0FFC-49D1-A736-9BA57490A2E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.CouseExercicio3Aluno PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseExercicio3Aluno/Program.cs">
+    <Files>
+      <File FileName="CouseExercicio3Aluno/Program.cs" Line="8" Column="13" />
+      <File FileName="CouseExercicio3Aluno/Aluno.cs" Line="15" Column="88" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseExercicio3Aluno" expanded="True">
+            <Node name="CouseExercicio3Aluno" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

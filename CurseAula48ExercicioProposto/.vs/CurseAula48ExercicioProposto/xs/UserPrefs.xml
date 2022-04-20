@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FD70BB9C-3C9D-4E29-9BD2-B659DFFC7AED}|Default">
+  <MonoDevelop.Ide.ItemProperties.CurseAula48ExercicioProposto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurseAula48ExercicioProposto/Program.cs">
+    <Files>
+      <File FileName="CurseAula48ExercicioProposto/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CurseAula48ExercicioProposto" expanded="True">
+            <Node name="CurseAula48ExercicioProposto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>(QuantidadeEmReais * cotacaoDolar) * IOF</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

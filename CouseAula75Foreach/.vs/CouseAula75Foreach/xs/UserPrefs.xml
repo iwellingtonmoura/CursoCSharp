@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D295CC9E-6906-4E1A-A54F-6F50422F9D67}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula75Foreach/Program.cs">
+    <Files>
+      <File FileName="CouseAula75Foreach/Program.cs" Line="13" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula75Foreach" expanded="True">
+            <Node name="CouseAula75Foreach" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CouseAula75Foreach PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

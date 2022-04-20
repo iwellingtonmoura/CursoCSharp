@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B6D8036B-EED9-4784-A793-66E15E1D4BCF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula69Vetores/Program.cs">
+    <Files>
+      <File FileName="CouseAula69Vetores/Program.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula69Vetores" expanded="True">
+            <Node name="CouseAula69Vetores" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CouseAula69Vetores PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

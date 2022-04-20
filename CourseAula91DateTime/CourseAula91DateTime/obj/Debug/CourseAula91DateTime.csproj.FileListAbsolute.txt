@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula91DateTime/CourseAula91DateTime/bin/Debug/CourseAula91DateTime.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula91DateTime/CourseAula91DateTime/bin/Debug/CourseAula91DateTime.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula91DateTime/CourseAula91DateTime/obj/Debug/CourseAula91DateTime.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula91DateTime/CourseAula91DateTime/obj/Debug/CourseAula91DateTime.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula91DateTime/CourseAula91DateTime/obj/Debug/CourseAula91DateTime.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula91DateTime/CourseAula91DateTime/obj/Debug/CourseAula91DateTime.pdb

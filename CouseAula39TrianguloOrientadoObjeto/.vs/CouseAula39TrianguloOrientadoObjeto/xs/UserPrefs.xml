@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B4AD408D-085A-4C65-A122-58E849D0082E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula39TrianguloOrientadoObjeto/Program.cs">
+    <Files>
+      <File FileName="CouseAula39TrianguloOrientadoObjeto/Program.cs" Line="3" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula39TrianguloOrientadoObjeto" expanded="True">
+            <Node name="CouseAula39TrianguloOrientadoObjeto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.CouseAula39TrianguloOrientadoObjeto FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

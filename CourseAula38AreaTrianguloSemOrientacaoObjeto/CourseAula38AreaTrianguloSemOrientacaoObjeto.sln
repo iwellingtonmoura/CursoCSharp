@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAula38AreaTrianguloSemOrientacaoObjeto", "CourseAula38AreaTrianguloSemOrientacaoObjeto\CourseAula38AreaTrianguloSemOrientacaoObjeto.csproj", "{19B63F3B-3F6A-4B40-ABBE-71C7A45D9054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B63F3B-3F6A-4B40-ABBE-71C7A45D9054}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{19B63F3B-3F6A-4B40-ABBE-71C7A45D9054}.Debug|anycpu.Build.0 = Debug|anycpu
+		{19B63F3B-3F6A-4B40-ABBE-71C7A45D9054}.Release|anycpu.ActiveCfg = Release|anycpu
+		{19B63F3B-3F6A-4B40-ABBE-71C7A45D9054}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {599D5E42-B6D9-4C86-9C8D-D4F1CED56F18}
+	EndGlobalSection
+EndGlobal

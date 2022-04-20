@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula69Vetores", "CouseAula69Vetores\CouseAula69Vetores.csproj", "{B6D8036B-EED9-4784-A793-66E15E1D4BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D8036B-EED9-4784-A793-66E15E1D4BCF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B6D8036B-EED9-4784-A793-66E15E1D4BCF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B6D8036B-EED9-4784-A793-66E15E1D4BCF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B6D8036B-EED9-4784-A793-66E15E1D4BCF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A13C96-A14A-4457-B1B1-3A573EBCE939}
+	EndGlobalSection
+EndGlobal

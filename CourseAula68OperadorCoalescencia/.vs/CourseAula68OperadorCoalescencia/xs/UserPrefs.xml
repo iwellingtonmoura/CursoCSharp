@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{06BCCA73-C690-4C0F-BCCC-32A7B5E9FF15}|Default">
+  <MonoDevelop.Ide.ItemProperties.CourseAula68OperadorCoalescencia FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula68OperadorCoalescencia/Program.cs">
+    <Files>
+      <File FileName="CourseAula68OperadorCoalescencia/Program.cs" Line="14" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula68OperadorCoalescencia" expanded="True">
+            <Node name="CourseAula68OperadorCoalescencia" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

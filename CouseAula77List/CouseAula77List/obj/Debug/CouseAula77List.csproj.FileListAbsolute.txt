@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula77List/CouseAula77List/bin/Debug/CouseAula77List.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula77List/CouseAula77List/bin/Debug/CouseAula77List.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula77List/CouseAula77List/obj/Debug/CouseAula77List.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula77List/CouseAula77List/obj/Debug/CouseAula77List.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula77List/CouseAula77List/obj/Debug/CouseAula77List.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula77List/CouseAula77List/obj/Debug/CouseAula77List.pdb

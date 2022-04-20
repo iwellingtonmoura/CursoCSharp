@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula22EntradaDeDados/CourseAula22EntradaDeDados/bin/Debug/CourseAula22EntradaDeDados.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula22EntradaDeDados/CourseAula22EntradaDeDados/bin/Debug/CourseAula22EntradaDeDados.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula22EntradaDeDados/CourseAula22EntradaDeDados/obj/Debug/CourseAula22EntradaDeDados.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula22EntradaDeDados/CourseAula22EntradaDeDados/obj/Debug/CourseAula22EntradaDeDados.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula22EntradaDeDados/CourseAula22EntradaDeDados/obj/Debug/CourseAula22EntradaDeDados.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula22EntradaDeDados/CourseAula22EntradaDeDados/obj/Debug/CourseAula22EntradaDeDados.pdb

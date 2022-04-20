@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2596B03D-6215-422F-8B1F-7912AB04FF8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula27EstruturaCondicionalIfElse/Program.cs">
+    <Files>
+      <File FileName="CouseAula27EstruturaCondicionalIfElse/Program.cs" Line="40" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula27EstruturaCondicionalIfElse" expanded="True">
+            <Node name="CouseAula27EstruturaCondicionalIfElse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.CouseAula27EstruturaCondicionalIfElse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

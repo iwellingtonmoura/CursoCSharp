@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8E72AFC5-087F-477C-B5A5-D343A55B4799}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Couse54UsoDoThisComConstrutor/Produto.cs">
+    <Files>
+      <File FileName="Couse54UsoDoThisComConstrutor/Program.cs" Line="33" Column="2" />
+      <File FileName="Couse54UsoDoThisComConstrutor/Produto.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Couse54UsoDoThisComConstrutor" expanded="True">
+            <Node name="Couse54UsoDoThisComConstrutor" expanded="True">
+              <Node name="Produto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>(QuantidadeEmReais * cotacaoDolar) * IOF</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Couse54UsoDoThisComConstrutor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

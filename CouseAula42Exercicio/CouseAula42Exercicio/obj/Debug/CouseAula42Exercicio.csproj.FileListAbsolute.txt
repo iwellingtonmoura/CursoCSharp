@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula42Exercicio/CouseAula42Exercicio/bin/Debug/CouseAula42Exercicio.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula42Exercicio/CouseAula42Exercicio/bin/Debug/CouseAula42Exercicio.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula42Exercicio/CouseAula42Exercicio/obj/Debug/CouseAula42Exercicio.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula42Exercicio/CouseAula42Exercicio/obj/Debug/CouseAula42Exercicio.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula42Exercicio/CouseAula42Exercicio/obj/Debug/CouseAula42Exercicio.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula42Exercicio/CouseAula42Exercicio/obj/Debug/CouseAula42Exercicio.pdb

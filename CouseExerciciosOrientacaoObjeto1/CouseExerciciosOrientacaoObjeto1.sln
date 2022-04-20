@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseExerciciosOrientacaoObjeto1", "CouseExerciciosOrientacaoObjeto1\CouseExerciciosOrientacaoObjeto1.csproj", "{53492FDB-01E6-4A77-A9C9-54FC36BCA34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53492FDB-01E6-4A77-A9C9-54FC36BCA34A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{53492FDB-01E6-4A77-A9C9-54FC36BCA34A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{53492FDB-01E6-4A77-A9C9-54FC36BCA34A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{53492FDB-01E6-4A77-A9C9-54FC36BCA34A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA6241F9-BABD-4442-90A9-64AF4C592406}
+	EndGlobalSection
+EndGlobal

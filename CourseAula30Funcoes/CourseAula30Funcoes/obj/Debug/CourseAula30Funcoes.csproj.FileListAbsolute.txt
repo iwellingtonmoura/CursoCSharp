@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/bin/Debug/CourseAula30Funcoes.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/bin/Debug/CourseAula30Funcoes.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/obj/Debug/CourseAula30Funcoes.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/obj/Debug/CourseAula30Funcoes.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/obj/Debug/CourseAula30Funcoes.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/obj/Debug/CourseAula30Funcoes.pdb

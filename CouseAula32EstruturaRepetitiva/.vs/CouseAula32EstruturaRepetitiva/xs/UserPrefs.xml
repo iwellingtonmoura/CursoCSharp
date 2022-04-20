@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4F0FFF40-987C-4239-9E67-4AB3EC86214A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula32EstruturaRepetitiva/Program.cs">
+    <Files>
+      <File FileName="CouseAula32EstruturaRepetitiva/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula32EstruturaRepetitiva" expanded="True">
+            <Node name="CouseAula32EstruturaRepetitiva" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CouseAula32EstruturaRepetitiva PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

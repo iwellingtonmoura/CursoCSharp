@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioFixacao1/ExercicioFixacao1/bin/Debug/ExercicioFixacao1.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioFixacao1/ExercicioFixacao1/bin/Debug/ExercicioFixacao1.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioFixacao1/ExercicioFixacao1/obj/Debug/ExercicioFixacao1.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioFixacao1/ExercicioFixacao1/obj/Debug/ExercicioFixacao1.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioFixacao1/ExercicioFixacao1/obj/Debug/ExercicioFixacao1.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/ExercicioFixacao1/ExercicioFixacao1/obj/Debug/ExercicioFixacao1.pdb

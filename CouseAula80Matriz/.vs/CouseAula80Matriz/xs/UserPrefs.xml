@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5D67EEAF-550F-479D-BE26-A3EA139BEAF2}|Default">
+  <MonoDevelop.Ide.ItemProperties.CouseAula80Matriz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula80Matriz/Program.cs">
+    <Files>
+      <File FileName="CouseAula80Matriz/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula80Matriz" expanded="True">
+            <Node name="CouseAula80Matriz" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

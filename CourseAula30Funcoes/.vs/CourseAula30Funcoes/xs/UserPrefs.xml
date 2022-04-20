@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{27F5BBE1-2956-4D7D-9904-3355A536818E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CourseAula30Funcoes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula30Funcoes/Program.cs">
+    <Files>
+      <File FileName="CourseAula30Funcoes/Program.cs" Line="34" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula30Funcoes" expanded="True">
+            <Node name="CourseAula30Funcoes" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula30Funcoes/CourseAula30Funcoes/Program.cs" relfile="CourseAula30Funcoes/Program.cs" line="35" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula80Matriz/CouseAula80Matriz/bin/Debug/CouseAula80Matriz.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula80Matriz/CouseAula80Matriz/bin/Debug/CouseAula80Matriz.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula80Matriz/CouseAula80Matriz/obj/Debug/CouseAula80Matriz.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula80Matriz/CouseAula80Matriz/obj/Debug/CouseAula80Matriz.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula80Matriz/CouseAula80Matriz/obj/Debug/CouseAula80Matriz.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CouseAula80Matriz/CouseAula80Matriz/obj/Debug/CouseAula80Matriz.pdb

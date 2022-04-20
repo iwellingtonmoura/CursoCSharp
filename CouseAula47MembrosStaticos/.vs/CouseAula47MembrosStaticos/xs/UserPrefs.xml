@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9895B3F2-1777-48DF-B6B9-7235319B8EE7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula47MembrosStaticos/Calculadora.cs">
+    <Files>
+      <File FileName="CouseAula47MembrosStaticos/Program.cs" Line="22" Column="1" />
+      <File FileName="CouseAula47MembrosStaticos/Calculadora.cs" Line="16" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula47MembrosStaticos" expanded="True">
+            <Node name="CouseAula47MembrosStaticos" expanded="True">
+              <Node name="Calculadora.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CouseAula47MembrosStaticos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

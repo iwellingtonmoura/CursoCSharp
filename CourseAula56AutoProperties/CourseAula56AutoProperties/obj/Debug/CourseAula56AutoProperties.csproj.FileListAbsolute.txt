@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula56AutoProperties/CourseAula56AutoProperties/bin/Debug/CourseAula56AutoProperties.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula56AutoProperties/CourseAula56AutoProperties/bin/Debug/CourseAula56AutoProperties.pdb
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula56AutoProperties/CourseAula56AutoProperties/obj/Debug/CourseAula56AutoProperties.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula56AutoProperties/CourseAula56AutoProperties/obj/Debug/CourseAula56AutoProperties.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula56AutoProperties/CourseAula56AutoProperties/obj/Debug/CourseAula56AutoProperties.exe
+/Users/wellingtonmoura/Documents/GitHub/iwellingtonmoura/Programacao Cursos/Udemy/CursoC#/CourseAula56AutoProperties/CourseAula56AutoProperties/obj/Debug/CourseAula56AutoProperties.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{19B63F3B-3F6A-4B40-ABBE-71C7A45D9054}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula38AreaTrianguloSemOrientacaoObjeto/Program.cs">
+    <Files>
+      <File FileName="CourseAula38AreaTrianguloSemOrientacaoObjeto/Program.cs" Line="41" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula38AreaTrianguloSemOrientacaoObjeto" expanded="True">
+            <Node name="CourseAula38AreaTrianguloSemOrientacaoObjeto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CourseAula38AreaTrianguloSemOrientacaoObjeto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

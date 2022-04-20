@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9F3402E7-14EE-4953-9B2A-8636C319E6E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.CourseAula56AutoProperties PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula56AutoProperties/Produto.cs">
+    <Files>
+      <File FileName="CourseAula56AutoProperties/Program.cs" Line="14" Column="30" />
+      <File FileName="CourseAula56AutoProperties/Produto.cs" Line="15" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula56AutoProperties" expanded="True">
+            <Node name="CourseAula56AutoProperties" expanded="True">
+              <Node name="Produto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>(QuantidadeEmReais * cotacaoDolar) * IOF</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

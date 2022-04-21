@@ -15,7 +15,14 @@ namespace CouseAula135Heranca.Entities
 
         }
 
-           
+
+        public void Loan( double amount)
+        {
+            if (amount <= LoanLimit)
+            {
+                Balance += amount;
+            }
+        }
         
     }
 }

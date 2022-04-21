@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6EE44810-DC56-404A-B03B-247B7D14A2AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula132ExercicioProposto/Entities/Order.cs">
+    <Files>
+      <File FileName="CouseAula132ExercicioProposto/Program.cs" Line="1" Column="1" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Order.cs" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Client.cs" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/OrderItem.cs" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Product.cs" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Enums/OrderStatus.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula132ExercicioProposto" expanded="True">
+            <Node name="CouseAula132ExercicioProposto" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Enums" expanded="True" />
+                <Node name="Order.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CouseAula132ExercicioProposto FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

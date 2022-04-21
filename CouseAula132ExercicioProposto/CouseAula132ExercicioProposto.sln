@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula132ExercicioProposto", "CouseAula132ExercicioProposto\CouseAula132ExercicioProposto.csproj", "{6EE44810-DC56-404A-B03B-247B7D14A2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE44810-DC56-404A-B03B-247B7D14A2AD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6EE44810-DC56-404A-B03B-247B7D14A2AD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6EE44810-DC56-404A-B03B-247B7D14A2AD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6EE44810-DC56-404A-B03B-247B7D14A2AD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891E9FEB-4CDA-4700-AC35-BEE46EF431A9}
+	EndGlobalSection
+EndGlobal

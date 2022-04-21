@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula131StringBuilder/CouseAula131StringBuilder/bin/Debug/CouseAula131StringBuilder.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula131StringBuilder/CouseAula131StringBuilder/bin/Debug/CouseAula131StringBuilder.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula131StringBuilder/CouseAula131StringBuilder/obj/Debug/CouseAula131StringBuilder.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula131StringBuilder/CouseAula131StringBuilder/obj/Debug/CouseAula131StringBuilder.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula131StringBuilder/CouseAula131StringBuilder/obj/Debug/CouseAula131StringBuilder.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula131StringBuilder/CouseAula131StringBuilder/obj/Debug/CouseAula131StringBuilder.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula124Enuneracoes", "CouseAula124Enuneracoes\CouseAula124Enuneracoes.csproj", "{93FA64D9-277B-4577-9E70-C5B54B9C7D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FA64D9-277B-4577-9E70-C5B54B9C7D62}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{93FA64D9-277B-4577-9E70-C5B54B9C7D62}.Debug|anycpu.Build.0 = Debug|anycpu
+		{93FA64D9-277B-4577-9E70-C5B54B9C7D62}.Release|anycpu.ActiveCfg = Release|anycpu
+		{93FA64D9-277B-4577-9E70-C5B54B9C7D62}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75A63E8-8C13-4244-A70C-076F3EBD4BAB}
+	EndGlobalSection
+EndGlobal

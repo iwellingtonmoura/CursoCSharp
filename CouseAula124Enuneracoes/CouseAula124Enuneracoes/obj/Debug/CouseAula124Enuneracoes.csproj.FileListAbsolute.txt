@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula124Enuneracoes/CouseAula124Enuneracoes/bin/Debug/CouseAula124Enuneracoes.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula124Enuneracoes/CouseAula124Enuneracoes/bin/Debug/CouseAula124Enuneracoes.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula124Enuneracoes/CouseAula124Enuneracoes/obj/Debug/CouseAula124Enuneracoes.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula124Enuneracoes/CouseAula124Enuneracoes/obj/Debug/CouseAula124Enuneracoes.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula124Enuneracoes/CouseAula124Enuneracoes/obj/Debug/CouseAula124Enuneracoes.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula124Enuneracoes/CouseAula124Enuneracoes/obj/Debug/CouseAula124Enuneracoes.pdb

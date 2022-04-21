@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FD4A3C4F-B3F2-4226-A7BA-BA4FA971FF19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula135Heranca/Entities/BusinessAccount.cs">
+    <Files>
+      <File FileName="CouseAula135Heranca/Program.cs" Line="1" Column="1" />
+      <File FileName="CouseAula135Heranca/Entities/Account.cs" Line="31" Column="10" />
+      <File FileName="CouseAula135Heranca/Entities/BusinessAccount.cs" Line="4" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula135Heranca" expanded="True">
+            <Node name="CouseAula135Heranca" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="BusinessAccount.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CouseAula135Heranca FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

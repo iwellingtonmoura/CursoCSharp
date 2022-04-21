@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{6EE44810-DC56-404A-B03B-247B7D14A2AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula132ExercicioProposto/Entities/Order.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula132ExercicioProposto/Entities/Client.cs">
     <Files>
-      <File FileName="CouseAula132ExercicioProposto/Program.cs" Line="1" Column="1" />
-      <File FileName="CouseAula132ExercicioProposto/Entities/Order.cs" />
-      <File FileName="CouseAula132ExercicioProposto/Entities/Client.cs" />
-      <File FileName="CouseAula132ExercicioProposto/Entities/OrderItem.cs" />
-      <File FileName="CouseAula132ExercicioProposto/Entities/Product.cs" />
-      <File FileName="CouseAula132ExercicioProposto/Entities/Enums/OrderStatus.cs" />
+      <File FileName="CouseAula132ExercicioProposto/Program.cs" Line="44" Column="30" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Order.cs" Line="45" Column="10" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Client.cs" Line="29" Column="10" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/OrderItem.cs" Line="22" Column="1" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Product.cs" Line="20" Column="1" />
+      <File FileName="CouseAula132ExercicioProposto/Entities/Enums/OrderStatus.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
             <Node name="CouseAula132ExercicioProposto" expanded="True">
               <Node name="Entities" expanded="True">
                 <Node name="Enums" expanded="True" />
-                <Node name="Order.cs" selected="True" />
+                <Node name="Client.cs" selected="True" />
               </Node>
             </Node>
           </Node>

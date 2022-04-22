@@ -1,0 +1,5 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula137VirtualOverride/CouseAula135Heranca/bin/Debug/CouseAula135Heranca.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula137VirtualOverride/CouseAula135Heranca/bin/Debug/CouseAula135Heranca.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula137VirtualOverride/CouseAula135Heranca/obj/Debug/CouseAula137VirtualOverride.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula137VirtualOverride/CouseAula135Heranca/obj/Debug/CouseAula135Heranca.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula137VirtualOverride/CouseAula135Heranca/obj/Debug/CouseAula135Heranca.pdb

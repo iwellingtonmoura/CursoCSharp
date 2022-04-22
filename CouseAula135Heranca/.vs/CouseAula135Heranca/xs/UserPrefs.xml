@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{FD4A3C4F-B3F2-4226-A7BA-BA4FA971FF19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula135Heranca/Entities/BusinessAccount.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula135Heranca/Entities/SavingsAccount.cs">
     <Files>
-      <File FileName="CouseAula135Heranca/Program.cs" Line="1" Column="1" />
-      <File FileName="CouseAula135Heranca/Entities/Account.cs" Line="31" Column="10" />
-      <File FileName="CouseAula135Heranca/Entities/BusinessAccount.cs" Line="4" Column="43" />
+      <File FileName="CouseAula135Heranca/Program.cs" Line="14" Column="65" />
+      <File FileName="CouseAula135Heranca/Entities/Account.cs" Line="8" Column="47" />
+      <File FileName="CouseAula135Heranca/Entities/BusinessAccount.cs" Line="23" Column="35" />
+      <File FileName="CouseAula135Heranca/Entities/SavingsAccount.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +12,7 @@
           <Node name="CouseAula135Heranca" expanded="True">
             <Node name="CouseAula135Heranca" expanded="True">
               <Node name="Entities" expanded="True">
-                <Node name="BusinessAccount.cs" selected="True" />
+                <Node name="SavingsAccount.cs" selected="True" />
               </Node>
             </Node>
           </Node>

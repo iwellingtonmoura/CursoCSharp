@@ -1,24 +1,26 @@
 ﻿<Properties StartupConfiguration="{FD4A3C4F-B3F2-4226-A7BA-BA4FA971FF19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula135Heranca/Entities/SavingsAccount.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula135Heranca/Entities/Account.cs">
     <Files>
-      <File FileName="CouseAula135Heranca/Program.cs" Line="14" Column="65" />
-      <File FileName="CouseAula135Heranca/Entities/Account.cs" />
-      <File FileName="CouseAula135Heranca/Entities/BusinessAccount.cs" />
-      <File FileName="CouseAula135Heranca/Entities/SavingsAccount.cs" Line="1" Column="1" />
+      <File FileName="CouseAula135Heranca/Program.cs" Line="21" Column="1" />
+      <File FileName="CouseAula135Heranca/Entities/Account.cs" Line="21" Column="24" />
+      <File FileName="CouseAula135Heranca/Entities/BusinessAccount.cs" Line="2" Column="39" />
+      <File FileName="CouseAula135Heranca/Entities/SavingsAccount.cs" Line="27" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CouseAula135Heranca" expanded="True">
-            <Node name="CouseAula135Heranca" expanded="True" selected="True">
-              <Node name="Entities" expanded="True" />
+            <Node name="CouseAula137VirtualOverride" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Account.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CouseAula137VirtualOverride FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CouseAula137VirtualOverride PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

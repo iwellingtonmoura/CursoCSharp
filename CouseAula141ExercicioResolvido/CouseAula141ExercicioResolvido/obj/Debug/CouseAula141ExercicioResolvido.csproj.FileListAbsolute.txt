@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula141ExercicioResolvido/CouseAula141ExercicioResolvido/obj/Debug/CouseAula141ExercicioResolvido.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula141ExercicioResolvido/CouseAula141ExercicioResolvido/obj/Debug/CouseAula141ExercicioResolvido.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula141ExercicioResolvido/CouseAula141ExercicioResolvido/bin/Debug/CouseAula141ExercicioResolvido.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula141ExercicioResolvido/CouseAula141ExercicioResolvido/bin/Debug/CouseAula141ExercicioResolvido.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula141ExercicioResolvido/CouseAula141ExercicioResolvido/obj/Debug/CouseAula141ExercicioResolvido.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula141ExercicioResolvido/CouseAula141ExercicioResolvido/obj/Debug/CouseAula141ExercicioResolvido.pdb

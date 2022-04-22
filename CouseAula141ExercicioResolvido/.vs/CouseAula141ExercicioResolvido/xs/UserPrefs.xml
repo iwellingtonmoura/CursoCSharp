@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{270301BE-823B-4819-AC76-30CE66960D43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula141ExercicioResolvido/Entities/OutsorcedEmployee.cs">
+    <Files>
+      <File FileName="CouseAula141ExercicioResolvido/Program.cs" Line="1" Column="1" />
+      <File FileName="CouseAula141ExercicioResolvido/Entities/Employee.cs" Line="22" Column="15" />
+      <File FileName="CouseAula141ExercicioResolvido/Entities/OutsorcedEmployee.cs" Line="4" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula141ExercicioResolvido" expanded="True">
+            <Node name="CouseAula141ExercicioResolvido" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="OutsorcedEmployee.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CouseAula141ExercicioResolvido PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

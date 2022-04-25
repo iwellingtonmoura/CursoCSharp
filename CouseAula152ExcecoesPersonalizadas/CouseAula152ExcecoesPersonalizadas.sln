@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula152ExcecoesPersonalizadas", "CouseAula152ExcecoesPersonalizadas\CouseAula152ExcecoesPersonalizadas.csproj", "{E109C474-3B2C-4271-AF7E-4CCFD25C118D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E109C474-3B2C-4271-AF7E-4CCFD25C118D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E109C474-3B2C-4271-AF7E-4CCFD25C118D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E109C474-3B2C-4271-AF7E-4CCFD25C118D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E109C474-3B2C-4271-AF7E-4CCFD25C118D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4ED17C-D5F9-4614-8AD0-6B75DCFD046F}
+	EndGlobalSection
+EndGlobal

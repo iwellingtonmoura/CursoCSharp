@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula197BlocoUsing", "CouseAula197BlocoUsing\CouseAula197BlocoUsing.csproj", "{60489494-99AF-436B-8C5C-4AC18138DBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60489494-99AF-436B-8C5C-4AC18138DBE4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{60489494-99AF-436B-8C5C-4AC18138DBE4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{60489494-99AF-436B-8C5C-4AC18138DBE4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{60489494-99AF-436B-8C5C-4AC18138DBE4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98FD432-C6FA-459D-8550-962D99C74E01}
+	EndGlobalSection
+EndGlobal

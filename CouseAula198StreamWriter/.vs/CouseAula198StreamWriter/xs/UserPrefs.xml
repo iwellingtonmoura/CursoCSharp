@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{60489494-99AF-436B-8C5C-4AC18138DBE4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula197BlocoUsing/Program.cs">
+﻿<Properties StartupConfiguration="{451EBA1D-DF59-41FB-BC34-4B00DE0FEC3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula198StreamWriter/Program.cs">
     <Files>
-      <File FileName="CouseAula197BlocoUsing/Program.cs" Line="30" Column="1" />
+      <File FileName="CouseAula198StreamWriter/Program.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CouseAula197BlocoUsing" expanded="True">
-            <Node name="CouseAula197BlocoUsing" expanded="True">
+          <Node name="CouseAula198StreamWriter" expanded="True">
+            <Node name="CouseAula198StreamWriter" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CouseAula198StreamWriter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.CouseAula197BlocoUsing FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

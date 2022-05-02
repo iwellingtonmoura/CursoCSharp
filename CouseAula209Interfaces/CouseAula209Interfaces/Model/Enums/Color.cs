@@ -1,10 +1,9 @@
 ﻿using System;
 namespace CouseAula209Interfaces.Model.Enums
 {
-    public class Enum
+    enum Color
     {
-        public Enum()
-        {
-        }
+
+        Black, White
     }
 }

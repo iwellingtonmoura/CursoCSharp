@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula210HerancaMultipla/CouseAula210HerancaMultipla/bin/Debug/CouseAula210HerancaMultipla.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula210HerancaMultipla/CouseAula210HerancaMultipla/bin/Debug/CouseAula210HerancaMultipla.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula210HerancaMultipla/CouseAula210HerancaMultipla/obj/Debug/CouseAula210HerancaMultipla.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula210HerancaMultipla/CouseAula210HerancaMultipla/obj/Debug/CouseAula210HerancaMultipla.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula210HerancaMultipla/CouseAula210HerancaMultipla/obj/Debug/CouseAula210HerancaMultipla.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula210HerancaMultipla/CouseAula210HerancaMultipla/obj/Debug/CouseAula210HerancaMultipla.pdb

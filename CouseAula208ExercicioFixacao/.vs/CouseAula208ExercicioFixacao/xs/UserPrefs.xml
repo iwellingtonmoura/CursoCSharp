@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{332B1515-6BAE-41A6-B80A-2EC558916775}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula208ExercicioFixacao/Services/PaypalService.cs">
+    <Files>
+      <File FileName="CouseAula208ExercicioFixacao/Program.cs" Line="1" Column="1" />
+      <File FileName="CouseAula208ExercicioFixacao/Entities/Contract.cs" Line="23" Column="10" />
+      <File FileName="CouseAula208ExercicioFixacao/Entities/Installment.cs" Line="2" Column="28" />
+      <File FileName="CouseAula208ExercicioFixacao/Services/ContractService.cs" Line="9" Column="1" />
+      <File FileName="CouseAula208ExercicioFixacao/Services/IOnlinePaymentService.cs" Line="7" Column="52" />
+      <File FileName="CouseAula208ExercicioFixacao/Services/PaypalService.cs" Line="4" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CouseAula208ExercicioFixacao" expanded="True">
+            <Node name="CouseAula208ExercicioFixacao" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="PaypalService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CouseAula208ExercicioFixacao FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

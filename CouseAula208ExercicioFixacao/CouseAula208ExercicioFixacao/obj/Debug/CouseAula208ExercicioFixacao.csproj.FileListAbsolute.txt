@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula208ExercicioFixacao/CouseAula208ExercicioFixacao/bin/Debug/CouseAula208ExercicioFixacao.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula208ExercicioFixacao/CouseAula208ExercicioFixacao/bin/Debug/CouseAula208ExercicioFixacao.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula208ExercicioFixacao/CouseAula208ExercicioFixacao/obj/Debug/CouseAula208ExercicioFixacao.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula208ExercicioFixacao/CouseAula208ExercicioFixacao/obj/Debug/CouseAula208ExercicioFixacao.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula208ExercicioFixacao/CouseAula208ExercicioFixacao/obj/Debug/CouseAula208ExercicioFixacao.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula208ExercicioFixacao/CouseAula208ExercicioFixacao/obj/Debug/CouseAula208ExercicioFixacao.pdb

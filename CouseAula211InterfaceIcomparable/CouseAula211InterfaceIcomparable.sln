@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula211InterfaceIcomparable", "CouseAula211InterfaceIcomparable\CouseAula211InterfaceIcomparable.csproj", "{BD3955E2-D159-49E4-903B-D558A654D132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3955E2-D159-49E4-903B-D558A654D132}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BD3955E2-D159-49E4-903B-D558A654D132}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BD3955E2-D159-49E4-903B-D558A654D132}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BD3955E2-D159-49E4-903B-D558A654D132}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20945FDC-192F-4CD5-8780-A4BE08F2A776}
+	EndGlobalSection
+EndGlobal

@@ -23,6 +23,7 @@ namespace CouseAula211InterfaceIcomparable
                     }
 
                     list.Sort();
+                     
        
 
                     foreach(Employee emp in list) {

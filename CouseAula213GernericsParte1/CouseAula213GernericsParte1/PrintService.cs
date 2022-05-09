@@ -1,9 +1,9 @@
 ﻿using System;
 namespace CouseAula213GernericsParte1
 {
-    public class PrintService
+    public class PrintService<T>
     {
-        private int[] _values = new int[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
         public PrintService()
@@ -11,7 +11,7 @@ namespace CouseAula213GernericsParte1
         }
 
 
-        public void addValue( int value)
+        public void addValue( T value)
         {
             if(_count == 10)
             {
@@ -22,7 +22,7 @@ namespace CouseAula213GernericsParte1
             _count++; 
         }
 
-        public int First()
+        public T First()
         {
             if (_count == 0)
             {

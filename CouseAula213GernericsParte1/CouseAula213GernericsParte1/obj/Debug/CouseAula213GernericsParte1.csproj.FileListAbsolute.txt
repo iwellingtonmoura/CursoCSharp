@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula213GernericsParte1/CouseAula213GernericsParte1/bin/Debug/CouseAula213GernericsParte1.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula213GernericsParte1/CouseAula213GernericsParte1/bin/Debug/CouseAula213GernericsParte1.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula213GernericsParte1/CouseAula213GernericsParte1/obj/Debug/CouseAula213GernericsParte1.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula213GernericsParte1/CouseAula213GernericsParte1/obj/Debug/CouseAula213GernericsParte1.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula213GernericsParte1/CouseAula213GernericsParte1/obj/Debug/CouseAula213GernericsParte1.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula213GernericsParte1/CouseAula213GernericsParte1/obj/Debug/CouseAula213GernericsParte1.pdb

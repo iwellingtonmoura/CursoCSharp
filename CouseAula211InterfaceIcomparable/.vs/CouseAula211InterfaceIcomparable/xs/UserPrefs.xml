@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{BD3955E2-D159-49E4-903B-D558A654D132}|Default">
   <MonoDevelop.Ide.ItemProperties.CouseAula211InterfaceIcomparable FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula211InterfaceIcomparable/Enttites/Employee.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula211InterfaceIcomparable/Program.cs">
     <Files>
-      <File FileName="CouseAula211InterfaceIcomparable/Program.cs" Line="25" Column="8" />
-      <File FileName="CouseAula211InterfaceIcomparable/Enttites/Employee.cs" Line="1" Column="1" />
+      <File FileName="CouseAula211InterfaceIcomparable/Program.cs" Line="26" Column="22" />
+      <File FileName="CouseAula211InterfaceIcomparable/Enttites/Employee.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CouseAula211InterfaceIcomparable" expanded="True">
             <Node name="CouseAula211InterfaceIcomparable" expanded="True">
-              <Node name="Enttites" expanded="True">
-                <Node name="Employee.cs" selected="True" />
-              </Node>
+              <Node name="Enttites" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

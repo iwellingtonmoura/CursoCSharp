@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula213GernericsParte1", "CouseAula213GernericsParte1\CouseAula213GernericsParte1.csproj", "{EAFC7921-B5F7-4378-8BF1-6F7AA17CC9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFC7921-B5F7-4378-8BF1-6F7AA17CC9ED}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EAFC7921-B5F7-4378-8BF1-6F7AA17CC9ED}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EAFC7921-B5F7-4378-8BF1-6F7AA17CC9ED}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EAFC7921-B5F7-4378-8BF1-6F7AA17CC9ED}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D110E2-75DF-467C-A6C5-DC9229118DA4}
+	EndGlobalSection
+EndGlobal

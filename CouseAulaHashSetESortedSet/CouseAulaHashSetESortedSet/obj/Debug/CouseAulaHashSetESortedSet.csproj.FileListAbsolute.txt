@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAulaHashSetESortedSet/CouseAulaHashSetESortedSet/obj/Debug/CouseAulaHashSetESortedSet.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAulaHashSetESortedSet/CouseAulaHashSetESortedSet/obj/Debug/CouseAulaHashSetESortedSet.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAulaHashSetESortedSet/CouseAulaHashSetESortedSet/bin/Debug/CouseAulaHashSetESortedSet.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAulaHashSetESortedSet/CouseAulaHashSetESortedSet/bin/Debug/CouseAulaHashSetESortedSet.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAulaHashSetESortedSet/CouseAulaHashSetESortedSet/obj/Debug/CouseAulaHashSetESortedSet.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAulaHashSetESortedSet/CouseAulaHashSetESortedSet/obj/Debug/CouseAulaHashSetESortedSet.pdb

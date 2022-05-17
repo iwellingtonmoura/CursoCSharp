@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula216HashCodeEEquals", "CouseAula216HashCodeEEquals\CouseAula216HashCodeEEquals.csproj", "{774828CA-ADFA-45B1-9D80-2D17D9321F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774828CA-ADFA-45B1-9D80-2D17D9321F75}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{774828CA-ADFA-45B1-9D80-2D17D9321F75}.Debug|anycpu.Build.0 = Debug|anycpu
+		{774828CA-ADFA-45B1-9D80-2D17D9321F75}.Release|anycpu.ActiveCfg = Release|anycpu
+		{774828CA-ADFA-45B1-9D80-2D17D9321F75}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB55FA2F-0BCC-47A1-A20C-A460E09744A6}
+	EndGlobalSection
+EndGlobal

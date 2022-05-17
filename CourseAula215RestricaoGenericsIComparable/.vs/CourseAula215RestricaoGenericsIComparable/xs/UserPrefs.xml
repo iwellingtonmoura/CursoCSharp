@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{760AECF7-07ED-4804-968A-B09CB25A3302}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula215RestricaoGenericsIComparable/Entities/Product.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula215RestricaoGenericsIComparable/Program.cs">
     <Files>
-      <File FileName="CourseAula215RestricaoGenericsIComparable/Program.cs" Line="1" Column="1" />
+      <File FileName="CourseAula215RestricaoGenericsIComparable/Program.cs" Line="26" Column="78" />
       <File FileName="CourseAula215RestricaoGenericsIComparable/CalculationService.cs" Line="29" Column="2" />
-      <File FileName="CourseAula215RestricaoGenericsIComparable/Entities/Product.cs" Line="6" Column="22" />
+      <File FileName="CourseAula215RestricaoGenericsIComparable/Entities/Product.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CourseAula215RestricaoGenericsIComparable" expanded="True">
             <Node name="CourseAula215RestricaoGenericsIComparable" expanded="True">
-              <Node name="Entities" expanded="True">
-                <Node name="Product.cs" selected="True" />
-              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,5 +24,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CourseAula215RestricaoGenericsIComparable FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CourseAula215RestricaoGenericsIComparable PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

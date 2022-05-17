@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula216HashCodeEEquals/CouseAula216HashCodeEEquals/bin/Debug/CouseAula216HashCodeEEquals.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula216HashCodeEEquals/CouseAula216HashCodeEEquals/bin/Debug/CouseAula216HashCodeEEquals.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula216HashCodeEEquals/CouseAula216HashCodeEEquals/obj/Debug/CouseAula216HashCodeEEquals.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula216HashCodeEEquals/CouseAula216HashCodeEEquals/obj/Debug/CouseAula216HashCodeEEquals.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula216HashCodeEEquals/CouseAula216HashCodeEEquals/obj/Debug/CouseAula216HashCodeEEquals.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula216HashCodeEEquals/CouseAula216HashCodeEEquals/obj/Debug/CouseAula216HashCodeEEquals.pdb

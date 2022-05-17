@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAulaHashSetESortedSet", "CouseAulaHashSetESortedSet\CouseAulaHashSetESortedSet.csproj", "{434F6EB3-089C-45BF-80C4-B78698A51D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{434F6EB3-089C-45BF-80C4-B78698A51D6A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{434F6EB3-089C-45BF-80C4-B78698A51D6A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{434F6EB3-089C-45BF-80C4-B78698A51D6A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{434F6EB3-089C-45BF-80C4-B78698A51D6A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC01BDDC-4514-49E6-822D-12B6D0DCB92E}
+	EndGlobalSection
+EndGlobal

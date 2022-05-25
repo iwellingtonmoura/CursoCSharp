@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula223ExercicioDictionary", "CouseAula223ExercicioDictionary\CouseAula223ExercicioDictionary.csproj", "{6AF37BB0-241D-4646-BABC-6B199EFBED28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF37BB0-241D-4646-BABC-6B199EFBED28}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6AF37BB0-241D-4646-BABC-6B199EFBED28}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6AF37BB0-241D-4646-BABC-6B199EFBED28}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6AF37BB0-241D-4646-BABC-6B199EFBED28}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C1C7E4-7E01-47B6-9121-CFEAA5DB2392}
+	EndGlobalSection
+EndGlobal

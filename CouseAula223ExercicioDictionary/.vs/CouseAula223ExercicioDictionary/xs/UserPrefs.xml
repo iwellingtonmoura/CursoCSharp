@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{4CBD41BF-A828-4250-BF64-11898D05FB43}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula22Dictionary/Program.cs">
+﻿<Properties StartupConfiguration="{6AF37BB0-241D-4646-BABC-6B199EFBED28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula223ExercicioDictionary/Program.cs">
     <Files>
-      <File FileName="CouseAula22Dictionary/Program.cs" Line="19" Column="63" />
+      <File FileName="CouseAula223ExercicioDictionary/Program.cs" Line="42" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CouseAula22Dictionary" expanded="True">
-            <Node name="CouseAula22Dictionary" expanded="True">
+          <Node name="CouseAula223ExercicioDictionary" expanded="True">
+            <Node name="CouseAula223ExercicioDictionary" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CouseAula22Dictionary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CouseAula223ExercicioDictionary FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula22Dictionary/CouseAula22Dictionary/bin/Debug/CouseAula22Dictionary.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula22Dictionary/CouseAula22Dictionary/bin/Debug/CouseAula22Dictionary.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula22Dictionary/CouseAula22Dictionary/obj/Debug/CouseAula22Dictionary.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula22Dictionary/CouseAula22Dictionary/obj/Debug/CouseAula22Dictionary.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula22Dictionary/CouseAula22Dictionary/obj/Debug/CouseAula22Dictionary.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula22Dictionary/CouseAula22Dictionary/obj/Debug/CouseAula22Dictionary.pdb

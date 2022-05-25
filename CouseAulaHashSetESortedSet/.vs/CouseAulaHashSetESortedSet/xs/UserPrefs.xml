@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{434F6EB3-089C-45BF-80C4-B78698A51D6A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CouseAulaHashSetESortedSet/Program.cs">
     <Files>
-      <File FileName="CouseAulaHashSetESortedSet/Program.cs" Line="1" Column="1" />
+      <File FileName="CouseAulaHashSetESortedSet/Program.cs" Line="24" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CouseAulaHashSetESortedSet FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CouseAulaHashSetESortedSet PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

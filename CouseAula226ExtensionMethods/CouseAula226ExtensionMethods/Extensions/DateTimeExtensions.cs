@@ -1,6 +1,6 @@
-﻿using System;
-using System.Globalization;
-namespace CouseAula226ExtensionMethods.Extensions
+﻿using System.Globalization;
+namespace System
+
 {
     static class DateTimeExtensions
     {

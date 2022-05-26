@@ -1,5 +1,4 @@
 ﻿using System;
-using CouseAula226ExtensionMethods.Extensions;
 
 namespace CouseAula226ExtensionMethods
 {
@@ -10,6 +9,12 @@ namespace CouseAula226ExtensionMethods
             DateTime data = new DateTime(2018, 11, 10, 18, 45, 35);
 
             Console.WriteLine(data.ElapsedTime());
-        }
+
+
+            string s1 = "Sejam Muito bem vindos ao Curso de C";
+
+            Console.WriteLine(s1.cut(10));
+
+         }
     }
 }

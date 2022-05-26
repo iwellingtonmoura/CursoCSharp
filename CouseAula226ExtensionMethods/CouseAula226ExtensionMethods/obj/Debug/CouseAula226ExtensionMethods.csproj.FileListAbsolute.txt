@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula226ExtensionMethods/CouseAula226ExtensionMethods/bin/Debug/CouseAula226ExtensionMethods.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula226ExtensionMethods/CouseAula226ExtensionMethods/bin/Debug/CouseAula226ExtensionMethods.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula226ExtensionMethods/CouseAula226ExtensionMethods/obj/Debug/CouseAula226ExtensionMethods.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula226ExtensionMethods/CouseAula226ExtensionMethods/obj/Debug/CouseAula226ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula226ExtensionMethods/CouseAula226ExtensionMethods/obj/Debug/CouseAula226ExtensionMethods.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula226ExtensionMethods/CouseAula226ExtensionMethods/obj/Debug/CouseAula226ExtensionMethods.pdb

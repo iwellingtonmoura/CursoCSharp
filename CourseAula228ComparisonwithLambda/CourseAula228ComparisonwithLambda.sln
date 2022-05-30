@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAula228ComparisonwithLambda", "CourseAula228ComparisonwithLambda\CourseAula228ComparisonwithLambda.csproj", "{D9B0FC3F-2518-4CC4-B996-4882B65949A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B0FC3F-2518-4CC4-B996-4882B65949A6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D9B0FC3F-2518-4CC4-B996-4882B65949A6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D9B0FC3F-2518-4CC4-B996-4882B65949A6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D9B0FC3F-2518-4CC4-B996-4882B65949A6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A7ECC7-E0BF-4398-B4B4-9833A9ED6214}
+	EndGlobalSection
+EndGlobal

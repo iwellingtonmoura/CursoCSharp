@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D9B0FC3F-2518-4CC4-B996-4882B65949A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula228ComparisonwithLambda/Entities/Product.cs">
+    <Files>
+      <File FileName="CourseAula228ComparisonwithLambda/Program.cs" Line="1" Column="1" />
+      <File FileName="CourseAula228ComparisonwithLambda/Entities/Product.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula228ComparisonwithLambda" expanded="True">
+            <Node name="CourseAula228ComparisonwithLambda" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Product.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CourseAula228ComparisonwithLambda FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

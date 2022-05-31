@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula231MulticastDelegates/CouseAula231MulticastDelegates/bin/Debug/CouseAula231MulticastDelegates.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula231MulticastDelegates/CouseAula231MulticastDelegates/bin/Debug/CouseAula231MulticastDelegates.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula231MulticastDelegates/CouseAula231MulticastDelegates/obj/Debug/CouseAula231MulticastDelegates.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula231MulticastDelegates/CouseAula231MulticastDelegates/obj/Debug/CouseAula231MulticastDelegates.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula231MulticastDelegates/CouseAula231MulticastDelegates/obj/Debug/CouseAula231MulticastDelegates.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula231MulticastDelegates/CouseAula231MulticastDelegates/obj/Debug/CouseAula231MulticastDelegates.pdb

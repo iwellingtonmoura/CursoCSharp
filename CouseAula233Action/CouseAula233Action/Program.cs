@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 using CouseAula233Action.Entities;
 
@@ -20,10 +21,28 @@ namespace CouseAula233Action
 
             //foreach do list espera argumento do tipo action
 
+
+
+            //Implementação do Linq
+
+            List<string> result = list.Select(NameUpper).ToList();
+
+
             foreach (Product p in list)
             {
                 Console.WriteLine(p);
             }
+
+
+            foreach(string s in result)
+            {
+                Console.WriteLine(s);
+            }
+        }
+
+        static string NameUpper(Product p)
+        {
+            return p.Name.ToUpper();
         }
     }
 }

@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula232PredicateRemoveAll/CouseAula232PredicateRemoveAll/bin/Debug/CouseAula232PredicateRemoveAll.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula232PredicateRemoveAll/CouseAula232PredicateRemoveAll/bin/Debug/CouseAula232PredicateRemoveAll.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula232PredicateRemoveAll/CouseAula232PredicateRemoveAll/obj/Debug/CouseAula232PredicateRemoveAll.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula232PredicateRemoveAll/CouseAula232PredicateRemoveAll/obj/Debug/CouseAula232PredicateRemoveAll.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula232PredicateRemoveAll/CouseAula232PredicateRemoveAll/obj/Debug/CouseAula232PredicateRemoveAll.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula232PredicateRemoveAll/CouseAula232PredicateRemoveAll/obj/Debug/CouseAula232PredicateRemoveAll.pdb

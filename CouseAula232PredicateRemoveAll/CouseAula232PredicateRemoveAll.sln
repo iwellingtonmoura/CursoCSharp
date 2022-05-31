@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula232PredicateRemoveAll", "CouseAula232PredicateRemoveAll\CouseAula232PredicateRemoveAll.csproj", "{82719D78-5F8B-4BCE-930F-7C007B879D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82719D78-5F8B-4BCE-930F-7C007B879D38}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{82719D78-5F8B-4BCE-930F-7C007B879D38}.Debug|anycpu.Build.0 = Debug|anycpu
+		{82719D78-5F8B-4BCE-930F-7C007B879D38}.Release|anycpu.ActiveCfg = Release|anycpu
+		{82719D78-5F8B-4BCE-930F-7C007B879D38}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0C141A-7ACF-44C3-9B3B-711F6C070D98}
+	EndGlobalSection
+EndGlobal

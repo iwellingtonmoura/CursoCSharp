@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula233Action/CouseAula233Action/bin/Debug/CouseAula233Action.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula233Action/CouseAula233Action/bin/Debug/CouseAula233Action.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula233Action/CouseAula233Action/obj/Debug/CouseAula233Action.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula233Action/CouseAula233Action/obj/Debug/CouseAula233Action.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula233Action/CouseAula233Action/obj/Debug/CouseAula233Action.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula233Action/CouseAula233Action/obj/Debug/CouseAula233Action.pdb

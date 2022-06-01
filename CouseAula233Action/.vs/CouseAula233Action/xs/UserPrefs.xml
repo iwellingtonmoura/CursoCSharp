@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{0754CB8A-8AA9-4E15-AAE4-F48F27627972}|Default">
-  <MonoDevelop.Ide.ItemProperties.CouseAula233Action FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula233Action/Entities/Product.cs">
+  <MonoDevelop.Ide.ItemProperties.CouseAula233Action PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CouseAula233Action/Program.cs">
     <Files>
-      <File FileName="CouseAula233Action/Program.cs" Line="1" Column="1" />
-      <File FileName="CouseAula233Action/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="CouseAula233Action/Program.cs" Line="19" Column="69" />
+      <File FileName="CouseAula233Action/Entities/Product.cs" Line="2" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CouseAula233Action" expanded="True">
             <Node name="CouseAula233Action" expanded="True">
-              <Node name="Entities" expanded="True">
-                <Node name="Product.cs" selected="True" />
-              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

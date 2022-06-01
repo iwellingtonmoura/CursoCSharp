@@ -16,6 +16,12 @@ namespace CouseAula233Action
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
+            //Utilizando delegate com referencia ao método NameUpper
+           // Func<Product, string> func = NameUpper;
+
+            //Utilizando expressão lambda
+            Func<Product, string> func = p => p.Name.ToUpper();
+
             //Aumentando o preço 10%
             list.ForEach(p => p.Price += p.Price * 0.1);
 
@@ -25,7 +31,10 @@ namespace CouseAula233Action
 
             //Implementação do Linq
 
-            List<string> result = list.Select(NameUpper).ToList();
+           // List<string> result = list.Select(NameUpper).ToList();
+
+            //usando um delegate func referenciando o método NameUpper
+            List<string> result = list.Select(func).ToList();
 
 
             foreach (Product p in list)

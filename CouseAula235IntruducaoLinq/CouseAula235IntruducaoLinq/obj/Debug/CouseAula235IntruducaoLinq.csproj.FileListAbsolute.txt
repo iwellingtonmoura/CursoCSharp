@@ -1,0 +1,6 @@
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula235IntruducaoLinq/CouseAula235IntruducaoLinq/bin/Debug/CouseAula235IntruducaoLinq.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula235IntruducaoLinq/CouseAula235IntruducaoLinq/bin/Debug/CouseAula235IntruducaoLinq.pdb
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula235IntruducaoLinq/CouseAula235IntruducaoLinq/obj/Debug/CouseAula235IntruducaoLinq.csproj.AssemblyReference.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula235IntruducaoLinq/CouseAula235IntruducaoLinq/obj/Debug/CouseAula235IntruducaoLinq.csproj.CoreCompileInputs.cache
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula235IntruducaoLinq/CouseAula235IntruducaoLinq/obj/Debug/CouseAula235IntruducaoLinq.exe
+/Users/wellingtonmoura/Documents/Cursos/Udemy/CursoC#/CouseAula235IntruducaoLinq/CouseAula235IntruducaoLinq/obj/Debug/CouseAula235IntruducaoLinq.pdb

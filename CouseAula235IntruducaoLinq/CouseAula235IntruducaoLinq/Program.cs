@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace CouseAula235IntruducaoLinq
 {
@@ -12,7 +13,7 @@ namespace CouseAula235IntruducaoLinq
 
             //Define a expression query
 
-            var result = numeros.Where(x => x % 2 == 0).Select(x => x * 10);
+            IEnumerable<int> result = numeros.Where(x => x % 2 == 0).Select(x => x * 10);
 
 
             //execute the query

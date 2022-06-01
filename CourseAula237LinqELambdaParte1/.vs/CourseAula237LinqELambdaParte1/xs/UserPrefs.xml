@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{18FBD1CB-2EC0-47F0-B743-B88D5CBAB675}|Default">
+  <MonoDevelop.Ide.ItemProperties.CourseAula237LinqELambdaParte1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAula237LinqELambdaParte1/Program.cs">
+    <Files>
+      <File FileName="CourseAula237LinqELambdaParte1/Program.cs" Line="98" Column="1" />
+      <File FileName="CourseAula237LinqELambdaParte1/Entities/Category.cs" />
+      <File FileName="CourseAula237LinqELambdaParte1/Entities/Product.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAula237LinqELambdaParte1" expanded="True">
+            <Node name="CourseAula237LinqELambdaParte1" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

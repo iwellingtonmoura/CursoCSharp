@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouseAula240LinqNotacaoSimilarSQL", "CouseAula240LinqNotacaoSimilarSQL\CouseAula240LinqNotacaoSimilarSQL.csproj", "{9E869B21-8C87-47F7-BC3D-838D52EDB21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E869B21-8C87-47F7-BC3D-838D52EDB21B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9E869B21-8C87-47F7-BC3D-838D52EDB21B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9E869B21-8C87-47F7-BC3D-838D52EDB21B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9E869B21-8C87-47F7-BC3D-838D52EDB21B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0568329-F456-4C13-98E7-0A32D7A19910}
+	EndGlobalSection
+EndGlobal
